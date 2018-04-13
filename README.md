@@ -10,3 +10,15 @@
 <p>This lesson is exemplary because it uses literacy in the math classroom. While word problems and such are also literacy, this lesson takes an article and takes literacy through the roof. This lesson also promotes students to use collaboration, listening, and discussion skills during a small group discussion about how the article and vocabulary words relate to statistics and their own lives. Not only does this lesson relate statistics to the real world, but it relates reading to mathematics. Students learn how literacy can be applied to math in addition to how statistics can be applied to the world. Not only does the article and engagement of the lesson relate to student lives, but also students themselves relate statistics to their own personal lives at the end of the lesson, so although they may have been engaged through relation for the duration of the lesson they also get to think about and reflect on how statistics may have influenced them. This part of the lesson is also relatable because students make a tweet about how statistics is related to their lives, which is a modern way to relate the classroom to modern day. </p>
 <p>Relation of math and real life is very important to engage and keep students during any lesson, and since not every lesson can be related to real life it is important to heavily relate the ones that can. Interpersonal skills are also incredibly important to bring to the classroom to prepare students for that real life that they always want to apply math to. That is what makes this lesson an exemplary example of how math can be applied to the real world. </p>
 
+
+<h2 align="center">Portfolio Entries</h2>
+<p align="center"><a href="https://etrumble.github.io/Emily-Trumble-Portfolio/">Introduction</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_1/">InTASC 1</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_2/">InTASC 2</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_3/">InTASC 3</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_4/">InTASC 4</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_5/">InTASC 5</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_7/">InTASC 7</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_8/">InTASC 8</a></p>
+<p align="center"><a href="https://etrumble.github.io/InTASC_10/">InTASC 10</a></p>
+<p align="center"><a href="https://etrumble.github.io/Technology_Standard/">Technology Standard</a></p>
